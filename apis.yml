@@ -33,13 +33,13 @@ x-category: "Games & Comics"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Games And Comics
   - Public APIs
+  - Gaming
+  - Video Games
 apis:
   - name: mod.io
     description: "Cross Platform Mod API"
     humanURL: https://docs.mod.io
-    baseURL: https://docs.mod.io
     tags:
       - Games And Comics
     properties:
@@ -57,3 +57,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Games And Comics
