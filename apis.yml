@@ -40,7 +40,8 @@ apis:
   - name: mod.io
     description: "Cross Platform Mod API"
     humanURL: https://docs.mod.io
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
